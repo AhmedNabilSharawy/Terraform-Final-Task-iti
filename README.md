@@ -3,7 +3,6 @@
 This project uses Terraform to create the following AWS resources:
 
     VPC
-    Internet Gateway
     Public Route Table
     Private Route Table
     Public EC2 instances
